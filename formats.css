@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.cane2{
+
+    color: yellow;
+    text-decoration: underline red;
+}
+.r{
+    
+    text-decoration: underline green;
+    font-size: 60px;
+}
+.u1{
+    color: brown;
+    text-decoration: underline chartreuse;
+    font-size: 70px;
+    }
+    .u3{
+        color: blue;
+        font-size: 90px;
+        text-decoration: underline yellow;
+    }
+    #logo{
+        width: 170px;
+        height: 170px;
+        border-radius: 50%;
+    }
+    #shapes{
+        background-color: yellow;
+        width: 270px;
+        height: 270px;
+        border-radius: 50%;
+    }
+    .main-div{
+        border: red solid 10px;
+        display: flex;
+        justify-content: space-around;
+        background-color: bisque;
+    }
+    .f-div{
+        border: green solid 3px;
+        flex-basis: 15%;
+        box-shadow: 7px 7px rebeccapurple;
+    }
+    .s-div{
+        border: cyan solid 3px;
+        flex-basis: 50%;
+        box-shadow: 7px 7px green;
+    }
+    .t-div{
+        border: blue solid 3px;
+        flex-basis: 15%;
+        box-shadow: 7px 7px yellow;
+    }
+    .links{
+        display: flex;
+        list-style-type: none;
+        background-color: yellow;
+    justify-content: space-around;
+
+        padding: 30px;
+    }
+    .links a{
+        padding-right: 15px;
+        text-decoration: none;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 25px;
+        color: blue;
+        font-size: 15px;
+    }
+    .links a:hover{
+        color: red;
+        background-color: aqua;
+        font-size: 17px;
+    }
+    .u2{
+color: red;
+font-size: 50px;
+text-align: center;
+text-decoration: aqua;
+background-color: blueviolet;
+    }
+    .li{
+        background-color: palegreen;
+        font-size: 20px;
+        
+    }
+    .lin{
+        background-color: peru;
+        font-size: 20px;
+        
+    }
+    .h24{
+        color: greenyellow;
+    }
+    .h5p{
+        color: purple;
+    }
+    .lii{
+        color: red;
+    }
+    .shape{
+        background-color: aqua;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    .u22{
+        color: blue;
+        font-size: 40px;
+        text-decoration: underline yellow;
+    }
+    .u223{
+color: red;
+font-size: 50px;
+text-decoration: underline blue;
+
+
+    }
+    .u23{
+       color: yellowgreen;
+       font-size: 50px; 
+       text-decoration: underline yellow;
+    }
+    .blu-button{
+        color: blue;
+        padding: 50px;
+        background-color: aqua;
+        margin: 10px;
+    }
+    .green-button{
+        color: green;
+        padding: 50px;
+        background-color: orange;
+        margin: 10px;
+    }
+    .yellow-button{
+        color: yellow;
+        padding: 50px;
+        background-color: orangered;
+    }
+    .box-uncle{
+        border: orchid solid 15px;
+        background-color: yellow;
+        padding-top: 10px;
+        padding-left: 20px;
+        margin-left: 10px;
+    }
+    .box-uncle a{
+        text-decoration: none;
+        color: green;
+    
+    }
+    .box-uncle a:hover{
+        color: blue;
+        background-color: yellow;
+        font-size: 15px;
+        
+    }
